@@ -10,7 +10,7 @@ Comprender la estructura, roles y procesos dentro de un Centro de Operaciones de
 ## 🧠 Conceptos Clave Aprendidos
 
 ### 1. ¿Qué es un SOC?
-Es el equipo encargado de monitorear.
+"SOC significa Security Operations Center (Centro de Operaciones de Seguridad). Es el equipo encargado de monitorear..."
 
 ### 2. Los Niveles de Analistas (Tiers)
 * **Analista Nivel 1 (Triage):** monitoreo, filtrar falsos positivos.
